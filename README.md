@@ -21,9 +21,9 @@
 ---
 
 ## 👩‍💻 About Me
-- 🔧 **Founder & Lead Engineer** at [SerityOps Innovations LLC](https://serityops.com)—a certified SDVOSB, minority‑ and woman‑owned boutique DevSecOps & cloud security consultancy:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}  
-- ☁️ **12+ Years** designing & automating secure, scalable AWS infrastructures—driving $1.5 M in cost reductions and 80% fewer vulnerabilities:contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}  
-- 🤖 Passionate about **Generative AI ethics** and building explainable, fair, and privacy‑first ML systems:contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5}  
+- 🔧 **Founder & Lead Engineer** at [SerityOps Innovations LLC](https://serityops.com)—a certified SDVOSB, minority‑ and woman‑owned boutique DevSecOps & cloud security consultancy :contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}  
+- ☁️ **12+ Years** designing & automating secure, scalable AWS infrastructures—driving $1.5 M in cost reductions and 80% fewer vulnerabilities :contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}  
+- 🤖 Passionate about **Generative AI ethics** and building explainable, fair, and privacy‑first ML systems :contentReference[oaicite:4]{index=4}&#8203;:contentReference[oaicite:5]{index=5}  
 - 🎓 Always learning—currently exploring advanced serverless patterns (Lambda, API Gateway), Okta IAM, and MLOps pipelines  
 
 ---
